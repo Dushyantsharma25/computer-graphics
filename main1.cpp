@@ -1,3 +1,4 @@
+// DDA algoritm For line
 #include <iostream>
 #include <GL/glut.h>  // OpenGL and GLUT headers
 #include <stdlib.h>
